@@ -1,6 +1,6 @@
 {
-    "title": "Blankj's Glory",
-    "author": "Blankj",
+    "title": "GitBook使用",
+    "author": "linin00",
     "description": "select * from learn",
     "language": "zh-hans",
     "gitbook": "3.2.3",
@@ -12,7 +12,7 @@
     },
     "links": {
         "sidebar": {
-            "我的狗窝": "https://blankj.com"
+            "博客": "http://linin.xyz"
         }
     },
     "plugins": [
@@ -30,12 +30,12 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/Blankj"
+            "url": "https://github.com/linin00"
         },
         "github-buttons": {
             "buttons": [{
-                "user": "Blankj",
-                "repo": "glory",
+                "user": "linin00",
+                "repo": "gitbookUsage",
                 "type": "star",
                 "size": "small",
                 "count": true
