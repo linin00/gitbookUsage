@@ -26,5 +26,4 @@
 
 3. 部署
 
-`gitbook serve`
-
+`gitbook serve` 部署到github前记得`gitbook build . docs`
